@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e7559755d3825194cbb0c0e115629197
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ProjetilPrefab2: {fileID: 260482268816880170, guid: 49ce3ad797119a840a857e52e4c084a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
